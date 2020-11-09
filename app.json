@@ -1,0 +1,12 @@
+{
+  "name": "print-test",
+  "displayName": "print-test",
+  "expo": {
+    "name": "print-test",
+    "slug": "print-test",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
